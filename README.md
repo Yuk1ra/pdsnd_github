@@ -27,7 +27,6 @@ The analysis includes:
    ```bash
    pip install pandas numpy
 
-
 ### Credits
 Dataset provided by Udacity
 Project structure inspired by the Udacity Programming for Data Science Nanodegree
