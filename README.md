@@ -22,7 +22,6 @@ The analysis includes:
 - `washington.csv` — Washington bikeshare dataset  
 
 ## How to Run
-
 1. Ensure Python 3 is installed  
 2. Install required libraries:
    ```bash
