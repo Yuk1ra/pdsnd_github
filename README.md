@@ -21,7 +21,13 @@ The analysis includes:
 - `new_york_city.csv` — New York City bikeshare dataset  
 - `washington.csv` — Washington bikeshare dataset  
 
+## How to Run
+1. Ensure Python 3 is installed  
+2. Install required libraries:
+   ```bash
+   pip install pandas numpy
+
+
 ### Credits
 Dataset provided by Udacity
-
 Project structure inspired by the Udacity Programming for Data Science Nanodegree
